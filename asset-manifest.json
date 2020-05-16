@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/robodex/static/css/main.f7b2decb.chunk.css",
+    "main.js": "/robodex/static/js/main.fd7f5607.chunk.js",
+    "main.js.map": "/robodex/static/js/main.fd7f5607.chunk.js.map",
+    "runtime-main.js": "/robodex/static/js/runtime-main.fb3d1593.js",
+    "runtime-main.js.map": "/robodex/static/js/runtime-main.fb3d1593.js.map",
+    "static/css/2.036b41f9.chunk.css": "/robodex/static/css/2.036b41f9.chunk.css",
+    "static/js/2.f3d8a2bc.chunk.js": "/robodex/static/js/2.f3d8a2bc.chunk.js",
+    "static/js/2.f3d8a2bc.chunk.js.map": "/robodex/static/js/2.f3d8a2bc.chunk.js.map",
+    "index.html": "/robodex/index.html",
+    "precache-manifest.b04cba22b4e2c9b83ea24b73aa94d538.js": "/robodex/precache-manifest.b04cba22b4e2c9b83ea24b73aa94d538.js",
+    "service-worker.js": "/robodex/service-worker.js",
+    "static/css/2.036b41f9.chunk.css.map": "/robodex/static/css/2.036b41f9.chunk.css.map",
+    "static/css/main.f7b2decb.chunk.css.map": "/robodex/static/css/main.f7b2decb.chunk.css.map",
+    "static/js/2.f3d8a2bc.chunk.js.LICENSE.txt": "/robodex/static/js/2.f3d8a2bc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fb3d1593.js",
+    "static/css/2.036b41f9.chunk.css",
+    "static/js/2.f3d8a2bc.chunk.js",
+    "static/css/main.f7b2decb.chunk.css",
+    "static/js/main.fd7f5607.chunk.js"
+  ]
+}
