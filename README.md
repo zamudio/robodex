@@ -5,7 +5,7 @@ This is basically a pokedex/rolodex, but for robots. It has a card grid UI with 
 To practice React, Redux, state management.
 
 ## Screenshot
-Include logo/demo screenshot etc.
+<img src="https://github.com/zamudio/robodex/blob/master/public/project_screenshot.png" alt="screenshot" width="450" height="250" />
 
 ## How to use?
 Go [here](https://robodex.netlify.app) for a live demo
@@ -13,6 +13,7 @@ Go [here](https://robodex.netlify.app) for a live demo
 Simply scroll or search to find your robot friends.
 
 ## Build status
+[![Netlify Status](https://api.netlify.com/api/v1/badges/18ddeeed-d483-49d8-8beb-6487dd22ddea/deploy-status)](https://app.netlify.com/sites/robodex/deploys)
 
 ## Code style
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
