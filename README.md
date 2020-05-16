@@ -8,12 +8,12 @@ To practice React, Redux, state management.
 <img src="https://github.com/zamudio/robodex/blob/master/public/project_screenshot.png" alt="screenshot" width="450" height="250" />
 
 ## How to use?
-Go [here](https://robodex.netlify.app) for a live demo
+Go [here](https://robodex.netlify.app/) for a live demo
 
 Simply scroll or search to find your robot friends.
 
 ## Build status
-[![Netlify Status](https://api.netlify.com/api/v1/badges/18ddeeed-d483-49d8-8beb-6487dd22ddea/deploy-status)](https://app.netlify.com/sites/robodex/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/5f7192d1-8c50-4bda-bad5-56840821d58e/deploy-status)](https://app.netlify.com/sites/robodex/deploys)
 
 ## Code style
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
@@ -31,7 +31,7 @@ Fully responsive search component
 - [Robohash](https://robohash.org/) for the images
 
 ## Credits
-Thanks to @andrein
+Thanks to Andrei Neagoie
 
 ## License
 MIT © Michael Zamduio
