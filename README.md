@@ -24,7 +24,10 @@ Built with:
 - [Redux](https://redux.js.org/)
 
 ## Features
-Fully responsive search component
+- One Page Layout built with React
+- Styled with Tachyons
+- Fully Responsive
+- Search
 
 ## API Reference
 - [JSON placeholder](https://jsonplaceholder.typicode.com/users) for the user info
